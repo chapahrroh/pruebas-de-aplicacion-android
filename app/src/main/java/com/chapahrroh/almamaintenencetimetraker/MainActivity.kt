@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun nullSafety()
     {
-        var myString = "Chapa"
+        var myString = "Chapasapee"
         println(myString)
     }
 }
